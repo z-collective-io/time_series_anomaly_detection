@@ -1,2 +1,2 @@
-# time_series_anomaly_detection
+# Time Series Anomaly Detection
 A repository that implements major time series anomaly detection methods
