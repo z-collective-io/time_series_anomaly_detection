@@ -1,0 +1,1 @@
+Stopped pulling from the walkthrough when the 'args' formatting is set to iterate and offload to csv files, which then get read back into a df for further processing.
